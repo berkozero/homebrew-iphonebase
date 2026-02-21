@@ -2,8 +2,8 @@ class Iphonebase < Formula
   desc "Control your iPhone from the command line via macOS iPhone Mirroring"
   homepage "https://github.com/berkozero/iphonebase"
   url "https://github.com/berkozero/iphonebase.git",
-    tag:      "v0.1.0",
-    revision: "a8260f4"
+    tag:      "v0.2.0",
+    revision: "6fdfe0e"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
